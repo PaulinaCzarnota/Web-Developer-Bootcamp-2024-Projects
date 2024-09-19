@@ -1,0 +1,1 @@
+This repository contains coding exercises and projects completed as part of the "Web Developer Bootcamp 2024" Udemy course. The course covers full-stack web development, including HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. Each project demonstrates key concepts learned in the course, from front-end development to back-end programming.
