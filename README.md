@@ -10,4 +10,4 @@ This repository contains coding exercises and projects completed as part of the 
 - **Security Best Practices:** Ensuring secure application development.
 - **Cloud Deployment:** Techniques for deploying applications to the cloud.
 
-Each project in this repository showcases key concepts learned throughout the course, from front-end to back-end development. As I continue to expand my skills and knowledge, I will regularly add new projects and improvements. 
+Each project in this repository showcases key concepts learned throughout the course, from front-end to back-end development. As I continue to expand my skills and knowledge, I will regularly add new projects and improvements.  
