@@ -1,6 +1,7 @@
 This repository contains coding exercises and projects completed as part of the **Web Developer Bootcamp 2024** on Udemy, taught by Colt Steele. I began the course in July 2024 and completed it in October 2024. The course offers comprehensive full-stack web development training, covering essential technologies such as HTML, CSS, JavaScript, React, Node.js, MongoDB, and more.
 
 # Course Highlights:
+
 - **Responsive Design:** Techniques for creating mobile-friendly layouts.
 - **React Hooks:** Utilizing hooks for managing component state and lifecycle.
 - **Material-UI:** Implementing design components for React applications.
